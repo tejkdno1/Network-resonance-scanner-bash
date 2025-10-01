@@ -1,0 +1,10 @@
+index.html
+admin
+login.php
+test.php
+phpinfo.php
+robots.txt
+.config
+backup
+.git
+.env

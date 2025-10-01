@@ -1,0 +1,8 @@
+[*] Processing target: 192.168.1.0/24
+[*] Performing ping sweep on 192.168.1.0/24
+[+] Found 5 live hosts
+[*] Scanning ports on 192.168.1.1
+[+] Port 80/tcp open (Apache)
+[+] Found: http://192.168.1.1/admin (200)
+[!] Directory listing enabled
+[!] Default SSH credentials found: root:password
